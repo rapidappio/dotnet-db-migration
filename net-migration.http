@@ -1,0 +1,6 @@
+@net_migration_HostAddress = http://localhost:5140
+
+GET {{net_migration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
